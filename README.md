@@ -9,11 +9,11 @@ Data: https://www.kaggle.com/c/m5-forecasting-accuracy/data (Too big for Github)
 The notebooks are based on https://www.kaggle.com/kyakovlev/m5-three-shades-of-dark-darker-magic
 
 # My contributions which drastically improved the accuracy:
-# 1
+# 1.Feature Engineering
 I added new features which took certain events (like chirstmas and father's day) into account while predicting sales in previous days as well and not just the
 day of the event. This was purely based on the logic that people shop for events not on the day of the event but before the event. This thinking gave us a very good prediction accuracy. (The new added features are present in the Features-1 file.)
 
-# 2
+# 2. Hyperparameter Tuning
 Furthermore fine tuned the parameters to ensure that the model wasn't overfitting. (The tuned params are present in the Train-model kernel.)
 
 # Execution:
