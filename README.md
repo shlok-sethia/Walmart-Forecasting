@@ -24,7 +24,7 @@ For the best score achieved:
 2. Decision Tree Regressor
 3. Bagging Regressor
 4. XGB Regressor
-5. LGBM Poisson
+5. LGBM Poisson (Best performing model)
 6. LGBM Tweedie
 7. LGBM Regression
 8. LGBM Gamma
