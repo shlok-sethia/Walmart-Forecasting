@@ -10,7 +10,7 @@ I added new features which took certain events (like chirstmas and father's day)
 day of the event. This was purely based on the logic that people shop for events not on the day of the event but before the event. This thinking gave us a very good prediction accuracy. (The new added features are present in the Features-1 file.)
 
 # 2. Hyperparameter Tuning
-Furthermore fine tuned the parameters to ensure that the model wasn't overfitting. (The tuned params are present in the Train-model kernel.)
+Furthermore fine tuned the parameters to ensure that the model wasn't overfitting. (The tuned params are present in the LGBM_Poisson kernel.)
 
 # Execution:
 For the best score achieved:
