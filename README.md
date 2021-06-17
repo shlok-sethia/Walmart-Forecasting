@@ -1,5 +1,9 @@
 # Predicting-Walmart-Sales
 
+![Issues](https://img.shields.io/github/issues/shlok-sethia/Walmart-Forecasting)
+[![License](https://img.shields.io/github/license/shlok-sethia/Walmart-Forecasting)](https://github.com/shlok-sethia/Walmart-Forecasting/blob/master/LICENSE)
+![](https://img.shields.io/github/repo-size/shlok-sethia/Walmart-Forecasting.svg?label=Repo%20size&style=flat-square)&nbsp;
+
 This code is part of the kaggle competition "M5-Accuracy". Our team got the score that would put us within the top 200 teams among over 5500 teams getting us the silver medal (But didn't because a team member shared a kernel with his friend or secondary account and we got disqualified :(  )
 
 Data: https://www.kaggle.com/c/m5-forecasting-accuracy/data (Too big for Github)
