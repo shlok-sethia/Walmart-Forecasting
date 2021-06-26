@@ -26,7 +26,7 @@ For the best score achieved:
 # Different models built:
 1. Linear Regression with One Hot Encoding
 2. Decision Tree Regressor
-3. Bagging Regressor
+3. Bagging Regressor 
 4. XGB Regressor
 5. LGBM Poisson (Best performing model)
 6. LGBM Tweedie
